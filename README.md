@@ -10,10 +10,10 @@
 ### 4 rock_paper_scissors.ipynb
 此範例說明如何使用CNN來做剪刀、石頭、布的圖片分類。  
 ### 5 CAM(Class Activation Map).ipynb
-此範例說明如何使用CAM(Class Activation Map)產生Heatmap，結合圖片分類可以顯示為何AI模組判斷該圖片為某種類別。  
+此範例說明如何使用CAM(Class Activation Map)產生Heatmap，結合圖片分類可以顯示為何AI模組判斷該圖片為某種類別。[4]  
 ![image1](images/01.jpg)  
 ## References
-https://www.coursera.org/learn/introduction-tensorflow  
-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow  
-https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ  
-https://edebrouwer.github.io/deeplearning/carvision/visualization/neural/networks/learning/2017/08/09/Deep_Visualization.html?fbclid=IwAR2q6RpfM--vxNmY2sSj9FHCxsm3BJ_7SjBbYDsOhH1puELTx0qK2h4M1m8  
+[1] https://www.coursera.org/learn/introduction-tensorflow  
+[2] https://www.coursera.org/learn/convolutional-neural-networks-tensorflow  
+[3] https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ  
+[4] https://edebrouwer.github.io/deeplearning/carvision/visualization/neural/networks/learning/2017/08/09/Deep_Visualization.html?fbclid=IwAR2q6RpfM--vxNmY2sSj9FHCxsm3BJ_7SjBbYDsOhH1puELTx0qK2h4M1m8  
